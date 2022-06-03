@@ -1,0 +1,15 @@
+Summary
+Project
+Component
+Version
+Severity
+Priority
+Status
+Author
+Assignet To
+Enviroment
+Description:
+	Steps to Reproduce
+	Result
+	Expected Result
+Attachment
